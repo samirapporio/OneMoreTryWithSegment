@@ -1,0 +1,2 @@
+include ':app', ':segment'
+rootProject.name='Example'
